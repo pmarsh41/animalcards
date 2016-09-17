@@ -14,10 +14,12 @@ background-color: gray;
 }
 .fact {
   font-style: italic;
+  margin: 5px;
 }
 .list{
   list-style: none;
   padding: 0;
+  margin: 5px;
 }
 .items {
   font-weight: bold;
