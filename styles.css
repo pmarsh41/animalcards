@@ -1,33 +1,39 @@
 /* add your CSS here */
 
 #card{
-border: 10px solid purple;
-width: 300px;
-margin: 1em;
-background-color: gray;
+  border: 10px solid purple;
+  width: 300px;
+  margin: 1em;
+  background-color: gray;
 }
+
 #information{
   padding-top: 1em;
   border: 5px dotted orange;
   width: 290px;
   font-family: helvetica;
 }
+
 .fact {
   font-style: italic;
   margin: 5px;
 }
+
 .list{
   list-style: none;
   padding: 0;
   margin: 5px;
 }
+
 .items {
   font-weight: bold;
 }
+
 .name{
   padding: 0.5em;
   font-family: helvetica;
 }
+
 .image{
 border: 5px solid green;
 width: 290px;
